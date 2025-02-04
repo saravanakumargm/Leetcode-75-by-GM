@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TreeRightSideView {
+    int n;
     List<Integer> res=new ArrayList<>();
     public List<Integer> rightSideView(TreeNode root) {
         rightRoot(root,0);
