@@ -20,4 +20,4 @@ public class GuessNumberLowerOrHigher {
         return 0;
     }
 }
-}
+
